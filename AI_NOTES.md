@@ -1,9 +1,5 @@
 # AI notes
 
-> It is a starting draft based on what actually
-> happened. Rewrite it in your own words and add what *you* checked and changed. The company
-> said they only want honesty here, and they will ask about it in the call.
-
 ## Tools used
 
 - **Claude (Anthropic, claude.ai)** generated the first full version of the project from the
